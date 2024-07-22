@@ -1,0 +1,40 @@
+Algoritimos e logicas de programacao
+
+  - Logica de programacao
+  - Entendendo problemas
+  - Pensamento critico e logico
+
+1.Pensar
+
+  - E necessario tempo para Pensar
+  - Pra quem esta comecando, esse tempo e maior
+  - E necessario evitar interrupcoes
+  - para quem nao treinou o foco, e muito facil ser interrempido
+
+2. Questionar e entender
+  
+  - Com as melhores perguntas vem as melhores respostas
+  - para entender o problema precisamos continuar perguntando ate encontrar a solucao
+  - Para entender, precisamos aprender ler e interpretar o problema
+
+3. Praticar
+
+  - Quanto mais praticar, melhor vai ficar 
+  - Vai levar tempo! Por isso, sera necessario paciencia no processo
+  quebrar o problema em pequenos pedacos, e colocar no codigo.
+
+4.Estutura de dados e Algoritimos
+  (conceito teoricos)
+
+  - E tudo sobre dados. Como manipular eles, como guardar eles, como capturar eles
+  - Algoritimos e a sequencia de passos para completar uma tarefa
+
+5.Ver codigo
+
+  - Voce precisa ver codigo
+  - Tentar entender codigo dos outros
+  - Aprenderemos outras maneiras de pensar no problema
+  - Aprenderemos outros Algoritimos
+  - Procurar explicar o que o codigo esta fazendo
+  - Voce vai encontrar codigo bom e codigo ruim
+
